@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-  background-color: skyblue;
+  background-color: blue;
 }
 
 .breadcrumbs li {
@@ -46,4 +46,8 @@ body{
   background: white;
   color: darkblue;
   font-weight: bold;
+}
+
+#logo ul {
+  over
 }
