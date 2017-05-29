@@ -41,11 +41,15 @@ body{
   background: lightblue;
   color: black;
 }
-
-#gnav a.selected {
-  background: white;
-  color: darkblue;
-  font-weight: bold;
+#gnav a:after {
+  clear: both;
+}
+#gnav div.img {
+  display: table-cell;
+  vertical-align: middle;
+  background: url(../icon_sprite.jpg) no-repeat;
+  width: 55px;
+  height: 46px;
 }
 
 #logo ul {
