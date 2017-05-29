@@ -49,5 +49,12 @@ body{
 }
 
 #logo ul {
-  over
+  overflow: hidden;
+}
+#logo li {
+  float: left;
+  list-style-type: none;
+}
+#logo img {
+  width: 100px;
 }
