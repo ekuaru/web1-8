@@ -69,8 +69,8 @@ table {
   display: table-cell;
   vertical-align: middle;
   background: url(../icon_sprite.jpg) no-repeat;
-  width: 43px;
-  height: 38px;
+  width: 40px;
+  height: 40px;
 }
 #gnav div.text{
   display: table-cell;
@@ -78,10 +78,10 @@ table {
   padding: 10px 5px;
 }
 div.img#home{ background-position: 0 0px;}
-div.img#content1{ background-position: 0 -38px;}
-div.img#content2{ background-position: 0 -76px;}
-div.img#help{ background-position: 0 -114px;}
-div.img#faq{ background-position: 0 -152px;}
+div.img#content1{ background-position: 0 -40px;}
+div.img#content2{ background-position: 0 -80px;}
+div.img#help{ background-position: 0 -120px;}
+div.img#faq{ background-position: 0 -160px;}
 
 #logo ul {
   overflow: hidden;
