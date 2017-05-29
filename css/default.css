@@ -34,10 +34,16 @@ body{
   padding:10px 0;
   text-align: center;
   text-decoration: none;
-  background: darkblue;
+  background-color: darkblue;
   color: white;
 }
 #gnav a:hover {
   background: lightblue;
   color: black;
+}
+
+#gnav a.selected {
+  background: white;
+  color: darkblue;
+  font-weight: bold;
 }
