@@ -77,11 +77,11 @@ table {
   vertical-align: middle;
   padding: 10px 5px;
 }
-div.img#home{ background-position: 440px -40px;}
-div.img#content1{ background-position: 360px -40px;}
-div.img#content2{ background-position: 480px -80px;}
-div.img#help{ background-position: 760px -240px;}
-div.img#faq{ background-position: 560px -200px;}
+div.img#home{ background-position: -440px -40px;}
+div.img#content1{ background-position: -360px -40px;}
+div.img#content2{ background-position: -480px -80px;}
+div.img#help{ background-position: -760px -240px;}
+div.img#faq{ background-position: -560px -200px;}
 
 #logo ul {
   overflow: hidden;
